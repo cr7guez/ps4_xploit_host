@@ -8,7 +8,7 @@ Un Host alternativo para poder instalar, probar y ejecutar exploits en el navega
 
 Lo único que hay que hacer es ir a esta dirección desde el navegador de internet de la consola.
 
-[PS4 Jailbreak + Goldhen v3.2.2](https://cr7guez.github.io-master/PS4/9.00/)
+[PS4 Jailbreak + Goldhen v3.2.2](https://cr7guez.github.io-master/PS4/9.00/index.html)
 
 ### PS4 Jailbreak Menu
 
