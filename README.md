@@ -10,7 +10,6 @@ Lo único que hay que hacer es ir a esta dirección desde el navegador de intern
 
 [PS4 Jailbreak + Goldhen v3.2.2](https://github.com/cr7guez/ps4_jailbreak/tree/main/cr7guez.github.io-master/PS4/9.00)
 
-
 ### PS4 Jailbreak Menu
 
-[PS4 Jailbreak Menu](https://cr7guez.github.io/cr7guez.github.io-master/PS4/9.00/menu)
+[PS4 Jailbreak Menu](https://ps4_jailbreak/cr7guez.github.io-master/PS4/9.00/menu)
