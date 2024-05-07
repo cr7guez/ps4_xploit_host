@@ -12,4 +12,4 @@ Lo único que hay que hacer es ir a esta dirección desde el navegador de intern
 
 ### PS4 Jailbreak Menu
 
-[PS4 Jailbreak Menu](https://ps4_jailbreak/cr7guez.github.io-master/PS4/9.00/menu)
+[PS4 Jailbreak Menu](https://ps4_jailbreak/PS4/9.00/menu)
